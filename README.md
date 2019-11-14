@@ -1,2 +1,2 @@
 # python-du
-testowanie 
+testowane 
