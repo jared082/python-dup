@@ -1,2 +1,4 @@
 #!/usr/bin/python3
-print ("hello")
+def main(msg):
+    print(msg)
+    main("etwas besonders")
