@@ -2,7 +2,7 @@
 def main(msg):
 <<<<<<< HEAD
     print(msg):
-    //hujoczita
+    //hujoczitee MiNazj zmiana
     main("etwas besonders")
 // hahaha
 
